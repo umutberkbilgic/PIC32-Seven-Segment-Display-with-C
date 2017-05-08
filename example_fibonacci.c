@@ -1,6 +1,5 @@
  /*
-  * Author: Umut Berk Bilgiç
-  * Bilkent University Computer Science - CS224 Lab 6
+  * Author: Umut Berk BilgiÃ§
   * Following code displays the fibonacci sequence on a 4 digit seven segment
   *     display array. It spesifically utilizes a multiplexed seven segment
   *     display aray that is expandable.
